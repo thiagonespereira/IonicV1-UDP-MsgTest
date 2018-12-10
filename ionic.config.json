@@ -1,6 +1,8 @@
 {
   "name": "ion1UDPmsg2",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic1",
   "watchPatterns": [
     "scss/**/*",
